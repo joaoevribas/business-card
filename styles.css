@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    margin: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #e2eafc;
+    color: #2b2839;
+    border: 6px solid #abc4ff;
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
